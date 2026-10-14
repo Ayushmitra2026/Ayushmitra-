@@ -1,0 +1,156 @@
+fOOTER group json
+
+
+/*
+
+
+
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "newsletter_bGyqr7": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_iypq7e": {
+          "type": "heading",
+          "settings": {
+            "visibility": "always",
+            "heading": "Subscribe to our emails",
+            "heading_italic_convert": "",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "text_hENm7N": {
+          "type": "text",
+          "settings": {
+            "visibility": "always",
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>",
+            "text_size": "t3"
+          }
+        },
+        "email_form_n6Vqmt": {
+          "type": "email_form",
+          "settings": {
+            "visibility": "always"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iypq7e",
+        "text_hENm7N",
+        "email_form_n6Vqmt"
+      ],
+      "name": "Email signup",
+      "settings": {
+        "preview_success": false,
+        "return_to": "",
+        "show_image": true,
+        "image": "shopify://shop_images/ChatGPT_Image_Sep_28_2026_12_56_26_PM.png",
+        "image_overlay_opacity": 0,
+        "fix_image": false,
+        "image_ratio": "custom",
+        "desktop_section_height": 440,
+        "mobile_section_height": 100,
+        "full_width": true,
+        "desktop_content_position": "md:justify-center md:items-center",
+        "mobile_content_position": "justify-center items-center",
+        "content_max_width": "m",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "show_text_box": "always",
+        "show_text_below": false,
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_and_text_dpPTME": {
+          "type": "image_and_text",
+          "settings": {
+            "heading": "Store name",
+            "description": "<p>Share contact information, store details and brand content with your customers.</p>",
+            "collapsible": true,
+            "wider": false,
+            "image_width": 100,
+            "image_placement": "top"
+          }
+        },
+        "image_and_text_AMCBwY": {
+          "type": "image_and_text",
+          "settings": {
+            "heading": "Ayushmitra",
+            "description": "<p>Ayushmitra is a trusted Ayurvedic wellness brand dedicated to bringing the goodness of nature into everyday life. We offer thoughtfully crafted herbal and Ayurvedic products made with a focus on purity, quality, and traditional wellness.</p>",
+            "collapsible": true,
+            "wider": true,
+            "image": "shopify://shop_images/Logo_Png.png",
+            "image_width": 100,
+            "image_placement": "top"
+          }
+        },
+        "link_list_yAXYbY": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Our Useful links",
+            "menu": "main-menu",
+            "collapsible": true
+          }
+        },
+        "link_list_3H8mTj": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu",
+            "menu": "footer-explore",
+            "collapsible": true
+          }
+        }
+      },
+      "block_order": [
+        "image_and_text_dpPTME",
+        "image_and_text_AMCBwY",
+        "link_list_yAXYbY",
+        "link_list_3H8mTj"
+      ],
+      "settings": {
+        "bottom_bar_links": "",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "show_country_filter": false,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "color_scheme": "",
+        "color_scheme_bottom": "",
+        "color_scheme_bottom_light": true,
+        "let_it_snow": false
+      }
+    }
+  },
+  "order": [
+    "newsletter_bGyqr7",
+    "footer"
+  ]
+}
